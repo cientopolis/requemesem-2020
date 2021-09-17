@@ -1,0 +1,5 @@
+mysql-connector-python
+flask-session
+flask
+flask-mysql
+spacy
